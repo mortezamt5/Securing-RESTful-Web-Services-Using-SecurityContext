@@ -1,5 +1,3 @@
-# RESTful-WebService-With-Security Using SecurityContext
-
 # How To to Create RESTful Webservice with Security in JAVA using SecurityContext ? 
 
 The javax.ws.rs.core.SecurityContext interface provides access to security-related information for a request. The SecurityContext provides functionality similar to javax.servlet.http.HttpServletRequest, enabling you to access the following security-related information:
