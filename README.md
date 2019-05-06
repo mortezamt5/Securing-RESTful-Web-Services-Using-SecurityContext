@@ -21,3 +21,12 @@ SecurityContext interface: http://docs.oracle.com/javaee/6/api/index.html?javax/
 @Context annotation: http://docs.oracle.com/javaee/6/api/index.html?javax/ws/rs/core/Context.html
 
 
+# Technologies and Tools used in this project:
+
+- Jersey 1.8
+- EJB 3.0
+- JDK 1.8
+- Tomcat 8.0
+- Maven 3.5.4
+- Intelij 2018.1.3
+
